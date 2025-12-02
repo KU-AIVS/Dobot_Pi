@@ -1,3 +1,7 @@
+# PLEASE NOTE: This repository is a fork from:
+# [π_{0.5}: a Vision-Language-Action Model with Open-World Generalization](https://github.com/Physical-Intelligence/openpi)
+## We optimized the Raspberry Pi code specifically for NOVA2.
+
 # openpi
 
 openpi holds open-source models and packages for robotics, published by the [Physical Intelligence team](https://www.physicalintelligence.company/).
